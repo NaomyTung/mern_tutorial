@@ -3,6 +3,10 @@
  * npm i -D nodemon
  * 
  * npm i express-async-handler
+ * 
+ * git init 
+ * git add .
+ * git commit -m 'duiashd'
  */
 
 const express = require('express')
